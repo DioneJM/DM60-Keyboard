@@ -17,7 +17,7 @@ Full build log can be found here: http://imgur.com/a/LTWew
 
 3) Insert the provided files from this repo into the GH60 directory.
 
-3.1) If your keyboard uses a different pin configuration than what I have used (as specified in the matrix.c file) ensure that it is changed to the specific config that you have used.
+3.1) If your layout uses a different pin configuration than what I have used (as specified in the matrix.c file) ensure that it is changed to the specific config that you have used.
 
 4) Make the hex file with "make -f Makefile" command whilst within the GH60 directory (requires avr-gcc compiler)
 
