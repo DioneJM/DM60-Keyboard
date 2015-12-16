@@ -2,7 +2,7 @@
 
 The DM60 is powered by the Teensy 2.0 with the ATMEGA32U4 chip.
 
-This is the modified code based off the tmk_keyboard library that was used to develop the software used for a custom keyboard that I built (DM60).
+This is the modified code based off the tmk_keyboard library that was used to develop the software used for it.
 
 Full build log can be found here: http://imgur.com/a/LTWew
 
