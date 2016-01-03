@@ -8,7 +8,7 @@ Full build log can be found here: http://imgur.com/a/LTWew
 
 ![ScreenShot](http://i.imgur.com/8VzgFym.jpg)
 
-![ScreenShot](http://i.imgur.com/IaqBLyy.jpg) ![ScreenShot](http://i.imgur.com/c8lZeNj.jpg)
+![ScreenShot](http://puu.sh/mhZkf/4b221f0c5e.jpg) ![ScreenShot](http://i.imgur.com/c8lZeNj.jpg)
 
 # How to make the hex file and install it onto the teensy.
 1) Get the tmk_keyboard software from here: https://github.com/tmk/tmk_keyboard
